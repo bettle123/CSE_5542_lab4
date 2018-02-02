@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\san34\desktop\2017_fall\cse5542\extra_lab\hw3\hw3\main.cpp(171): warning C4244: 'initializing': conversion from 'std::streamsize' to '::size_t', possible loss of data
+c:\users\san34\desktop\2017_fall\cse5542\extra_lab\hw3\hw3\main.cpp(244): warning C4244: 'initializing': conversion from 'std::streamsize' to '::size_t', possible loss of data
+  hw3.vcxproj -> C:\Users\san34\Desktop\2017_Fall\CSE5542\extra_lab\hw3\Debug\hw3.exe
+  hw3.vcxproj -> C:\Users\san34\Desktop\2017_Fall\CSE5542\extra_lab\hw3\Debug\hw3.pdb (Partial PDB)
