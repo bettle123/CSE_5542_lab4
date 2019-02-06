@@ -8,9 +8,9 @@ My program has used freeglut, glew, glm and the libraries and include files are 
 There are some pictures for results of my program.
 
 
-<img width="448" alt="su_extralab_result1" src="https://user-images.githubusercontent.com/10261854/52367823-f0dc5a80-2a1a-11e9-990c-de77e95a1a2a.PNG">
 
 
+![Screenshot](https://user-images.githubusercontent.com/10261854/52367823-f0dc5a80-2a1a-11e9-990c-de77e95a1a2a.PNG)
 
 If the grader has problems on compiling my program. Please contact me by su.672@osu.edu
 
