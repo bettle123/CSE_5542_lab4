@@ -1,3 +1,5 @@
+
+![alt text](https://github.com/bettle123/CSE_5542_lab4/blob/master/Su_extralab_result1.PNG)
 This is my extra lab project.
 I choose the first one "Volume Rendering".
 I use the raw data "statueLeg.raw" from professor Crawfis website.
@@ -8,3 +10,4 @@ There are some pictures for results of my program.
 If the grader has problems on compiling my program. Please contact me by su.672@osu.edu
 
 by Su Ming Yi 2017/12/11
+![alt text](http://url/to/img.png)
